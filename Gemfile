@@ -68,6 +68,10 @@ group :test do
 end
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+gem 'devise'
+>>>>>>> Stashed changes
 =======
 gem 'devise'
 >>>>>>> Stashed changes
